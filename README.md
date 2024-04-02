@@ -40,5 +40,12 @@ then transformed and formatted in a specific way, and finally loaded into a fina
     c): Cloud-native
         AWS, google cloud platform, Microsoft
 
+# What is data sourcing?
+Data sourcing refers to connecting your pipeline environment to all data input sources relevant to your data pipeline.
 
-
+# Type of data sources:
+    a): csv/excel files store as plain text file. and store data by row
+    b): parquet files store data in its binary form. and store data by column
+    c): apis
+    d): rdbms databases
+    e): html
